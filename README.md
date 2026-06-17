@@ -3,6 +3,7 @@
 
 ## Overview
 This project demonstrates the implementation of a modern Data Warehouse using SQL Server, including ETL processes, data modeling, and analytical reporting.
+screenshot.png
 
 ## Project Objectives
 - Build a scalable data warehouse
